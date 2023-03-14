@@ -1,0 +1,9 @@
+.input_link{
+    top: 40%;
+}
+.generated_link{
+    color: black;
+}
+#original_link_error{
+    color: red;
+}
